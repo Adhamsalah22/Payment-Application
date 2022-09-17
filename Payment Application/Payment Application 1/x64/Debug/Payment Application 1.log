@@ -1,0 +1,5 @@
+﻿  server.c
+D:\Embedded Systems\Payment Application\Payment Application 1\Server\server.c(35,61): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Embedded Systems\Payment Application\Payment Application 1\Server\server.c(54,13): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\Embedded Systems\Payment Application\Payment Application 1\Server\server.c(141,13): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  Payment Application 1.vcxproj -> D:\Embedded Systems\Payment Application\Payment Application 1\x64\Debug\Payment Application 1.exe
