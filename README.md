@@ -24,6 +24,9 @@ Project Requirements
 
 
 1-System Design
+
 2-Prepare your development environment
+
 3-Implement your application
+
 4-Test your application
